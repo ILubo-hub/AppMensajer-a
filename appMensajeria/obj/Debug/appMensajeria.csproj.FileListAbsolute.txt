@@ -1,0 +1,146 @@
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\appMensajeria.exe.config
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\appMensajeria.exe
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\appMensajeria.pdb
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\appMensajeria.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmLogin.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmPrincipal.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\appMensajeria.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\appMensajeria.exe
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\appMensajeria.pdb
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmMantenimientos.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoMensajero.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoPrecios.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmProcesos.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\log4net.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\log4net.xml
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\GMap.NET.Core.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\EntityFramework.xml
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmLoginCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Filtros.frmFiltroCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Filtros.frmFiltroMensajero.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmInsertarPaquetes.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmRegistrarCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Seguridad.frmRegistroUsuarios.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Seguridad.frmAccesoRegistro.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Pincipales.frmReportes.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteRecaudacion.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\RdlCompile.cache
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\RdlCompile.compiled
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteFactura.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteCompraCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\CircularProgressBar.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\WinFormAnimation.dll
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\CircularProgressBar.xml
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\WinFormAnimation.xml
+C:\Users\Jonathan\Desktop\Proyecto IICuatimestre\appMensajeria\appMensajeria\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\appMensajeria.exe.config
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\appMensajeria.exe
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\appMensajeria.pdb
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\appMensajeria.exe
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\appMensajeria.pdb
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\CircularProgressBar.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\GMap.NET.Core.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\log4net.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\WinFormAnimation.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\CircularProgressBar.xml
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\EntityFramework.xml
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\log4net.xml
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\WinFormAnimation.xml
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\appMensajeria.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Filtros.frmFiltroCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Filtros.frmFiltroMensajero.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmLogin.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoMensajero.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoPrecios.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmMantenimientos.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmPrincipal.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Pincipales.frmReportes.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmInsertarPaquetes.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmProcesos.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmLoginCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmRegistrarCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteCompraCliente.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteFactura.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteRecaudacion.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Seguridad.frmAccesoRegistro.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Seguridad.frmRegistroUsuarios.resources
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\appMensajeria.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\RdlCompile.cache
+C:\Users\Jonathan\Desktop\Proyecto\appMensajeria\appMensajeria\obj\Debug\RdlCompile.compiled
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\bin\Debug\appMensajeria.exe.config
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\appMensajeria.exe
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\appMensajeria.pdb
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\appMensajeria.csprojResolveAssemblyReference.cache
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.Properties.Resources.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Filtros.frmFiltroCliente.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Filtros.frmFiltroMensajero.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmLogin.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoCliente.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoMensajero.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Mantenimientos.frmMantenimientoPrecios.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmMantenimientos.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.frmPrincipal.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Pincipales.frmReportes.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmInsertarPaquetes.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmProcesos.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmLoginCliente.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Procesos.frmRegistrarCliente.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteCompraCliente.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteFactura.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Reportes.Forms.frmReporteRecaudacion.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Seguridad.frmAccesoRegistro.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\UTN.Mensajeria.Winform.UI.Seguridad.frmRegistroUsuarios.resources
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\appMensajeria.csproj.GenerateResource.Cache
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\RdlCompile.cache
+C:\Users\Jona5\Desktop\Proyecto Progra 3\appMensajeria\obj\Debug\RdlCompile.compiled
+C:\Users\Jona5\Documents\Proyecto Progra 3\appMensajeria\bin\Debug\appMensajeria.exe.config
+C:\Users\Jona5\Documents\Proyecto Progra 3\appMensajeria\obj\Debug\appMensajeria.exe
+C:\Users\Jona5\Documents\Proyecto Progra 3\appMensajeria\obj\Debug\appMensajeria.pdb

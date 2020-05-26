@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D92ACBD-B72B-404D-AFA1-7B45DEB3F2D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UTN.Mensajeria.Winform</RootNamespace>
+    <AssemblyName>appMensajeria</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IconoProyecto.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.5.6403.13419, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.5.6403.13419\lib\net35-client\CircularProgressBar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode">
+      <HintPath>G:\II Cuatrimestre 2018\Programación III\Semana 8\Miercoles\appElectronics\appElectronics\packages\MessagingToolkit.QRCode.1.3.0\lib\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.108.0\lib\net451\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.108.0\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.108.0\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.5.6298.3372, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\BLLCliente.cs" />
+    <Compile Include="BLL\BLLFactura.cs" />
+    <Compile Include="BLL\BLLImpuesto.cs" />
+    <Compile Include="BLL\BLLLogear.cs" />
+    <Compile Include="BLL\BLLMensajero.cs" />
+    <Compile Include="BLL\BLLPrecioEnvio.cs" />
+    <Compile Include="BLL\BLLProvincia.cs" />
+    <Compile Include="BLL\BLLSeguridad.cs" />
+    <Compile Include="BLL\BLLTarjeta.cs" />
+    <Compile Include="DAL\DALFactura.cs" />
+    <Compile Include="DAL\DALImpuesto.cs" />
+    <Compile Include="DAL\DALPrecioEnvio.cs" />
+    <Compile Include="DAL\DALProvincia.cs" />
+    <Compile Include="DAL\DALSeguridad.cs" />
+    <Compile Include="DAL\DALTarjeta.cs" />
+    <Compile Include="Entidades\DetFactura.cs" />
+    <Compile Include="Entidades\Direccion.cs" />
+    <Compile Include="Entidades\EncabezadoFactura.cs" />
+    <Compile Include="Entidades\EnvioPaquete.cs" />
+    <Compile Include="Entidades\Impuesto.cs" />
+    <Compile Include="Entidades\Provincia.cs" />
+    <Compile Include="Entidades\Tarjeta.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="Factory\FactoryUsuario.cs" />
+    <Compile Include="Interfaces\IBLLFactura.cs" />
+    <Compile Include="Interfaces\IBLLImpuesto.cs" />
+    <Compile Include="Interfaces\IBLLPrecioEnvio.cs" />
+    <Compile Include="Interfaces\IBLLProvincia.cs" />
+    <Compile Include="Interfaces\IBLLSeguridad.cs" />
+    <Compile Include="Interfaces\IBLLTarjeta.cs" />
+    <Compile Include="Interfaces\IDALFactura.cs" />
+    <Compile Include="Interfaces\IDALImpuesto.cs" />
+    <Compile Include="Interfaces\IDALPrecioEnvio.cs" />
+    <Compile Include="Interfaces\IDALProvincia.cs" />
+    <Compile Include="Interfaces\IDALSeguridad.cs" />
+    <Compile Include="Interfaces\IDALTarjeta.cs" />
+    <Compile Include="Persistencia\Conexion.cs" />
+    <Compile Include="DAL\DALCliente.cs" />
+    <Compile Include="DAL\DALLogear.cs" />
+    <Compile Include="DAL\DALMensajero.cs" />
+    <Compile Include="Entidades\Cliente.cs" />
+    <Compile Include="Entidades\Mensajero.cs" />
+    <Compile Include="Factory\FactoryCliente.cs" />
+    <Compile Include="Factory\FactoryMensajero.cs" />
+    <Compile Include="Interfaces\IBLLCliente.cs" />
+    <Compile Include="Interfaces\IBLLLogear.cs" />
+    <Compile Include="Interfaces\IBLLMensajero.cs" />
+    <Compile Include="Interfaces\IDALCliente.cs" />
+    <Compile Include="Interfaces\IDALLogear.cs" />
+    <Compile Include="Interfaces\IDALMensajero.cs" />
+    <Compile Include="Persistencia\IConexion.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Filtros\frmFiltroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Filtros\frmFiltroCliente.Designer.cs">
+      <DependentUpon>frmFiltroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Filtros\frmFiltroMensajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Filtros\frmFiltroMensajero.Designer.cs">
+      <DependentUpon>frmFiltroMensajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Pincipales\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Pincipales\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Mantenimientos\frmMantenimientoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Mantenimientos\frmMantenimientoCliente.Designer.cs">
+      <DependentUpon>frmMantenimientoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Mantenimientos\frmMantenimientoMensajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Mantenimientos\frmMantenimientoMensajero.Designer.cs">
+      <DependentUpon>frmMantenimientoMensajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Mantenimientos\frmMantenimientoPrecios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Mantenimientos\frmMantenimientoPrecios.Designer.cs">
+      <DependentUpon>frmMantenimientoPrecios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Pincipales\frmMantenimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Pincipales\frmMantenimientos.Designer.cs">
+      <DependentUpon>frmMantenimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Pincipales\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Pincipales\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Pincipales\frmReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Pincipales\frmReportes.Designer.cs">
+      <DependentUpon>frmReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Procesos\frmInsertarPaquetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Procesos\frmInsertarPaquetes.Designer.cs">
+      <DependentUpon>frmInsertarPaquetes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Procesos\frmProcesos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Procesos\frmProcesos.Designer.cs">
+      <DependentUpon>frmProcesos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Procesos\frmLoginCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Procesos\frmLoginCliente.Designer.cs">
+      <DependentUpon>frmLoginCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Procesos\frmRegistrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Procesos\frmRegistrarCliente.Designer.cs">
+      <DependentUpon>frmRegistrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Reportes\DataSet\DataSetRecaudacion.cs">
+      <DependentUpon>DataSetRecaudacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Reportes\DataSet\DataSetRecaudacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetRecaudacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Reportes\Forms\frmReporteCompraCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Reportes\Forms\frmReporteCompraCliente.Designer.cs">
+      <DependentUpon>frmReporteCompraCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Reportes\Forms\frmReporteFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Reportes\Forms\frmReporteFactura.Designer.cs">
+      <DependentUpon>frmReporteFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Reportes\Forms\frmReporteRecaudacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Reportes\Forms\frmReporteRecaudacion.Designer.cs">
+      <DependentUpon>frmReporteRecaudacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Seguridad\frmAccesoRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Seguridad\frmAccesoRegistro.Designer.cs">
+      <DependentUpon>frmAccesoRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Seguridad\frmRegistroUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Seguridad\frmRegistroUsuarios.Designer.cs">
+      <DependentUpon>frmRegistroUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\QuickResponse.cs" />
+    <Compile Include="Util\Utilitarios.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Filtros\frmFiltroCliente.resx">
+      <DependentUpon>frmFiltroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Filtros\frmFiltroMensajero.resx">
+      <DependentUpon>frmFiltroMensajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Pincipales\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Mantenimientos\frmMantenimientoCliente.resx">
+      <DependentUpon>frmMantenimientoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Mantenimientos\frmMantenimientoMensajero.resx">
+      <DependentUpon>frmMantenimientoMensajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Mantenimientos\frmMantenimientoPrecios.resx">
+      <DependentUpon>frmMantenimientoPrecios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Pincipales\frmMantenimientos.resx">
+      <DependentUpon>frmMantenimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Pincipales\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Pincipales\frmReportes.resx">
+      <DependentUpon>frmReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Procesos\frmInsertarPaquetes.resx">
+      <DependentUpon>frmInsertarPaquetes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Procesos\frmProcesos.resx">
+      <DependentUpon>frmProcesos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Procesos\frmLoginCliente.resx">
+      <DependentUpon>frmLoginCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Procesos\frmRegistrarCliente.resx">
+      <DependentUpon>frmRegistrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Reportes\Forms\frmReporteCompraCliente.resx">
+      <DependentUpon>frmReporteCompraCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Reportes\Forms\frmReporteFactura.resx">
+      <DependentUpon>frmReporteFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Reportes\Forms\frmReporteRecaudacion.resx">
+      <DependentUpon>frmReporteRecaudacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Reportes\Reportes\rptCompraCliente.rdlc" />
+    <EmbeddedResource Include="UI\Reportes\Reportes\rptReporteFactura.rdlc" />
+    <EmbeddedResource Include="UI\Reportes\Reportes\rptReporteRecaudacion.rdlc" />
+    <EmbeddedResource Include="UI\Seguridad\frmAccesoRegistro.resx">
+      <DependentUpon>frmAccesoRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Seguridad\frmRegistroUsuarios.resx">
+      <DependentUpon>frmRegistroUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UI\Reportes\DataSet\DataSetRecaudacion.xsc">
+      <DependentUpon>DataSetRecaudacion.xsd</DependentUpon>
+    </None>
+    <None Include="UI\Reportes\DataSet\DataSetRecaudacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetRecaudacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="UI\Reportes\DataSet\DataSetRecaudacion.xss">
+      <DependentUpon>DataSetRecaudacion.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frame2.11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrameAdministrador.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrameAdministradorPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoProyectoTerminado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="IconoProyecto.ico" />
+    <None Include="Resources\cargando.gif" />
+    <None Include="Resources\actualizarpequena.png" />
+    <None Include="Resources\ListoPequena.png" />
+    <None Include="Resources\iconoAyuda40.png" />
+    <None Include="Resources\SalirPequena1.png" />
+    <None Include="Resources\RegistrarPequeno.png" />
+    <None Include="Resources\EntrarPequena.png" />
+    <None Include="Resources\icons8-entrar-26.png" />
+    <None Include="Resources\icons8-archivo-nuevo-50.png" />
+    <None Include="Resources\icons8-factura-50.png" />
+    <None Include="Resources\icons8-guardar-50.png" />
+    <None Include="Resources\icons8-calculadora-50.png" />
+    <None Include="Resources\icons8-ayuda-50.png" />
+    <None Include="Resources\icons8-añadir-usuario-masculino-50.png" />
+    <None Include="Resources\icons8-google-web-search-50.png" />
+    <None Include="Resources\icons8-eliminar-archivo-50.png" />
+    <None Include="Resources\icons8-agregar-archivo-50.png" />
+    <None Include="Resources\icons8-entrar-50.png" />
+    <None Include="Resources\icons8-vuelto-asignación-50.png" />
+    <None Include="Resources\icons8-tarea-del-sistema-50.png" />
+    <None Include="Resources\icons8-menú-50.png" />
+    <None Include="Resources\icons8-comprobado-50.png" />
+    <None Include="Resources\icons8-comprobado-26.png" />
+    <None Include="Resources\icons8-salir-redondeado-filled-50.png" />
+    <None Include="Resources\icons8-actualizar-filled-50.png" />
+    <None Include="Resources\icons8-editar-propiedad-26.png" />
+    <None Include="Resources\icons8-agregar-archivo-26.png" />
+    <None Include="Resources\icons8-eliminar-26.png" />
+    <None Include="Resources\pdfpequeno.png" />
+    <None Include="Resources\LoginDeverdad.png" />
+    <None Include="Resources\Thingspqe.png" />
+    <None Include="Resources\AyudaPeq.png" />
+    <None Include="Resources\Login_37128 %281%29.png" />
+    <None Include="Resources\addClientepeq.png" />
+    <None Include="Resources\log_logout_door_1563 %281%29.png" />
+    <None Include="Resources\Refresh-iconpequeno.png" />
+    <None Include="Resources\calculadorapquena.png" />
+    <None Include="Resources\add-filepequena.png" />
+    <None Include="Resources\SavePequena.png" />
+    <None Include="Resources\icono-facturacion pequena.png" />
+    <None Include="Resources\NuevoPequena.png" />
+    <None Include="Resources\SalirPequena.png" />
+    <None Include="Resources\LupaMasPequena.png" />
+    <None Include="Resources\LupaPequena.png" />
+    <None Include="Resources\Lupa.png" />
+    <None Include="Resources\8817.png" />
+    <None Include="Resources\icono-usuarios.png" />
+    <None Include="Resources\clientes.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.108.0\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net451\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.108.0\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
